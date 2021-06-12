@@ -1,4 +1,4 @@
-# Project-PBO2 (Aplikasi Pencatat Kalori)
+# Project-PBO2 (Smart Diet Planner)
 
 |Nama|Nim|
 |----|---|
